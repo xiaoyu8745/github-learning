@@ -10,3 +10,5 @@ My first GitHub learning repository
 
 今天下午我要去黑客松活动现场签到
 
+今天晚上我要练习pr，熬夜学习，挑灯夜读，不然明天就要被t出队伍了
+
