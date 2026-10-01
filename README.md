@@ -2,9 +2,9 @@
 
 My first GitHub learning repository
 
-# 我的 GitHub 学习记录
+# 2026.10.1
 
-## 我的本地学习记录
+## 2026.10.2
 
 今天我在本地电脑上修改了代码。
 
